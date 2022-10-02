@@ -9,7 +9,7 @@ import java.util.Stack;
 import java.util.concurrent.ArrayBlockingQueue;
 
 public class MainClass {
-
+    private final double eli = 10000;
     JFrame frame;
     JLabel label;
 //    JTextField textField;
